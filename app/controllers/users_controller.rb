@@ -1,4 +1,4 @@
-class UsersController < ApplicationController
+class UsersController  < ApplicationController
    
    # GET to /users/:id
    def show
